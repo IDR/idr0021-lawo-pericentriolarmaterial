@@ -1,5 +1,10 @@
 ---
-include: "../../bulk.yml"
+continue: "true"
+transfer: "ln_s"
+exclude: "clientpath"
+checksum_algorithm: "File-Size-64"
+logprefix: "logs/"
+output: "yaml"
 path: "idr0021-experimentA-filePaths.tsv"
 columns:
     - target
