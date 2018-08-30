@@ -7,7 +7,7 @@ logprefix: "logs/"
 output: "yaml"
 skip: "all"
 parallel_upload: "50"
-parallel_upload: "50"
+parallel_fileset: "50"
 path: "idr0021-experimentA-filePaths.tsv"
 columns:
     - target
