@@ -5,10 +5,9 @@ transfer: "ln_s"
 checksum_algorithm: "File-Size-64"
 logprefix: "logs/"
 output: "yaml"
-skip: "all"
+parallel_fileset: "5"
 parallel_upload: "20"
-parallel_fileset: "20"
 path: "idr0021-experimentA-filePaths.tsv"
 columns:
-    - target
-    - path
+  - target
+  - path
