@@ -16,7 +16,7 @@ Study Public Release Date	2016-05-26
 # Study Publication										
 Study PubMed ID	23086237									
 Study Publication Title	Subdiffraction imaging of centrosomes reveals higher-order organizational features of pericentriolar material.									
-Study Author List	Lawo S, Hasegan M, Gupta GD, Pelletier L.									
+Study Author List	Lawo S, Hasegan M, Gupta GD, Pelletier L									
 Study PMC ID										
 Study DOI	https://doi.org/10.1038/ncb2591									
 										
