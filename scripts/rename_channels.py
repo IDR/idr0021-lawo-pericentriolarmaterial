@@ -23,7 +23,6 @@ def change_name(conn, image):
             if len(channels) > 0:
                 s = channels.replace(" ", "")
                 keys = dict(item.split(":") for item in s.split(";"))
-                print(keys)
                 name_dict = {}
                 index = 1
                 for channel in image.getChannels():
